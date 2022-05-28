@@ -19,7 +19,7 @@
         "zhihu": "",
 		"workExpYear":"8年",
 		"workPlace":"湖北武汉",
-		"positionTitle":"嵌入式高级开发工程师"
+		"positionTitle":"嵌入式开发高级工程师"
 	},
 	"educationList": [
 	    { 
@@ -52,19 +52,19 @@
 			"company_name":"小米科技（武汉）有限公司",
 			"department_name":"手机部",
 			"work_time":["2021.05",null],
-			"work_desc":"1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+			"work_desc":"嵌入式开发高级工程师。\r\n全屋智能有线技术方案软件开发，主要基于FreeRTOS平台，采用PLC技术接入到小米云平台，负责技术预研、模组软件架构及小米SPEC业务功能开发。"
 		},
 		{
 			"company_name":"中移物联网有限公司",
 			"department_name":"智能模组部",
 			"work_time":["2019.02","2021.05"],
-			"work_desc":"前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+			"work_desc":"嵌入式开发高级工程师。\r\nNB/4G蜂窝通信模组软件开发，主要基于FreeRTOS平台，进行AT指令及OpenCPU SDK开发，熟悉腾讯云/华为云/OneNET物联网平台的SDK移植及对接，负责模组HTTP&MQTT模块的功能开发。"
 		},
 		{
 			"company_name":"华为技术有限公司",
 			"department_name":"芯片驱动开发部",
 			"work_time":["2014.07","2018.07"],
-			"work_desc":"前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+			"work_desc":"驱动开发工程师。\r\n核心网路由器/交换机NP芯片SDK开发，主要基于Linux平台，负责MAC(数据链路层)及SerDes(物理层)模块的相关驱动开发。"
 		}
 	],
 	"skillList": [
