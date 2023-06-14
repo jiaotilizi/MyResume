@@ -1,5 +1,5 @@
-{ 
-    "titleNameMap": {
+{
+	"titleNameMap": {
 		"educationList":"教育背景",
 		"workExpList":"工作经历",
 		"projectList":"项目经历",
@@ -16,103 +16,108 @@
 		"email":"yt_believe@163.com",
 		"mobile":"17607138315",
 		"github": "",
-        "zhihu": "",
-		"workExpYear":"8年",
+		"zhihu": "",
+		"workExpYear":"9年",
 		"workPlace":"湖北武汉",
-		"positionTitle":"嵌入式高级开发工程师"
+		"positionTitle":"嵌入式开发工程师"
 	},
 	"educationList": [
-	    { 
-	    "edu_time": ["2010.09.01","2014.06.30"],
+		{ 
+		"edu_time": ["2010.09.01","2014.06.30"],
 		"school":"西安电子科技大学",
 		"major":"电子信息工程",
 		"academic_degree":"本科"
-	    }
+		}
 	],
 	"awardList": [
-	    {
-		    "award_info":"英语 CET4",
-			"award_time":"2015"
+		{
+			"award_info":"优秀新员工",
+			"award_time":"2014"
 		},
 		{
-			"award_info":"蚂蚁近卫军 卓越个人奖",
-			"award_time":"2018.09"
+			"award_info":"月度分享导师",
+			"award_time":"2020"
 		},
 		{
-			"award_info":"前端练习生 可视化讲师",
-			"award_time":"2020.10"
-		},
-		{
-			"award_info":"前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-			"award_time":"2021.07"
+			"award_info":"全屋智能重点项目（团队）",
+			"award_time":"2021.12"
 		}
 	],
 	"workExpList": [
-	    {
+		{
 			"company_name":"小米科技（武汉）有限公司",
 			"department_name":"手机部",
 			"work_time":["2021.05",null],
-			"work_desc":"1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+			"work_desc":"◾ 嵌入式开发工程师\r\n全屋智能有线技术方案软件开发，主要基于 FreeRTOS 平台，采用 PLC 技术接入到小米云平台，主要负责技术调研、芯片选型、模组软件架构搭建及业务模块功能开发。"
 		},
 		{
 			"company_name":"中移物联网有限公司",
 			"department_name":"智能模组部",
 			"work_time":["2019.02","2021.05"],
-			"work_desc":"前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+			"work_desc":"◾ 嵌入式开发工程师\r\nNB/4G 蜂窝通信模组软件开发，主要基于 FreeRTOS 平台，主要负责模组 HTTP&MQTT 模块的 AT 指令及 OpenCPU SDK 开发，负责模组接入腾讯云/华为云/OneNET 物联网平台的功能开发。"
 		},
 		{
 			"company_name":"华为技术有限公司",
 			"department_name":"芯片驱动开发部",
 			"work_time":["2014.07","2018.07"],
-			"work_desc":"前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+			"work_desc":"◾ 驱动开发工程师\r\n核心网路由器 / 交换机的 NP 芯片 SDK 开发，主要基于 Linux 平台，负责 MAC（数据链路层）及 SerDes（物理层）模块的功能开发及产品线交付。"
 		}
 	],
 	"skillList": [
-	    {
-			"skill_name":"C / C++",
-			"skill_desc":"",
-			"skill_level":89
+		{
+			"skill_name":"编程语言",
+			"skill_desc":"C/Python",
+			"skill_level":80
 		},
 		{
-			"skill_name":"TypeScript / JavaScript",
-			"skill_level":90
+			"skill_name":"版本管理",
+			"skill_desc":"Git/SVN",
+			"skill_level":80
 		},
 		{
-			"skill_name":"搭建",
-			"skill_desc":"Nginx",
-			"skill_level":60
+			"skill_name":"服务端搭建",
+			"skill_desc":"Nginx/Mosquitto/EMQX/Jenkins/Docker",
+			"skill_level":50
 		},
 		{
-			"skill_name":"React / 前端工程化",
-			"skill_desc":"大型前端项目经验以及组件库开发经验",
+			"skill_name":"开发工具",
+			"skill_desc":"VS/VMware/SecureCRT/FileZilla/WinSCP/Postman/Wireshark",
 			"skill_level":80
 		}
 	],
 	"projectList": [
 	    {
-			"project_name":"数据作战室",
-			"project_role":"前端负责人",
-			"project_time":"2019.04 - 2020.06",
-			"project_desc":"面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。","project_content":"1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+			"project_name":"全屋智能有线技术项目",
+			"project_role":"模组架构开发",
+			"project_time":"2021.05 - 至今",
+			"project_desc":"全屋智能有线项目采用了PLC（电力载波通信）技术，主要包含PLC网关、CCO和STA三类模块，其中PLC网关北向通过OT与米家云进行数据交互、南向通过UART与CCO进行通信。PLC组网内，CCO对所有STA进行集中管理。STA模块可以广泛的应用在灯/窗帘/旋钮/空调等家庭智能设备中。",
+			"project_content":"\n1.项目从0到1，参与技术调研、芯片评测和选型，负责模组软件架构搭建；\n2.参与RPC通信协议设计，负责实现模组的报文解析、消息分发及业务处理流程；\n3.负责规范团队代码管理流程，并部署Jenkin持续集成环境，基于Docker制作镜像实现支持不同的芯片平台构建；\n4.负责产测方案设计，推动厂包发布；\n5.负责制定API交付标准，负责设备属性、加解密、序列号、旋钮和调试等功能的方案设计及开发。"
 		},
 		{
-			"project_name":"DeepInsight",
-			"project_role":"可视分析负责人",
-			"project_time":"2018.07 - 2019.04 / 2020.07 - 至今",
-			"project_desc":"DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-			"project_content":"BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+			"project_name":"ML302蜂窝通信模组项目",
+			"project_role":"模组软件开发",
+			"project_time":"2019.08 - 2021.05",
+			"project_desc":"ML302是中国移动推出的LTE Cat.1模组，基于紫光展锐的8910DM物联网芯片，支持丰富的网络连接协议，广泛应用于共享、金融支付、抄表、工控等领域。",
+			"project_content":"\n1.负责模组AT指令及OpenCPU SDK开发及交付；\n2.负责HTTP客户端的实现，基于Nginx和Docker搭建测试服务器；\n3.负责MQTT客户端的实现，基于Mosquitto搭建测试服务器；\n4.负责腾讯云、华为云、OneNET的物联网平台的接入功能开发及认证，基于Postman进行北向API测试。"
 		},
 		{
-			"project_name":"G2、G2Plot",
-			"project_role":"核心开发者",
-			"project_time":"2019 - 至今",
-			"project_desc":"G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-			"project_content":"AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+			"project_name":"SD58xx路由器芯片项目",
+			"project_role":"芯片驱动开发",
+			"project_time":"2016.04 - 2018.08",
+			"project_desc":"华为自研首款支持单端口400G的骨干网路由器NP芯片，满足大容量融合承载，满足高密端口需求场景，可应用于广域网核心节点、大型企业接入节点。目前已成功商用在NE8000系列路由器中。",
+			"project_content":"\n1.负责SerDes（Hilink 16/30）模块的软件开发与维护；\n2.负责MemoryBIST的软件开发及验证；\n3.负责命令行命令树功能开发。"
+		},
+		{
+			"project_name":"SD59xx交换机芯片项目",
+			"project_role":"芯片驱动开发",
+			"project_time":"2014.07 - 2016.03",
+			"project_desc":"华为自研核心交换机NP芯片，强大的转发处理性能，在高端框式交换机中完成了对Broadcom芯片的取代，为用户提供高品质海量数据交换的能力，目前已成功商用在企业网旗舰级交换机CE12800E中。",
+			"project_content":"\n1.负责MAC（GE/XGE/CGE）模块的软件开发与维护，基于simulation/emulation进行样片回片前逻辑验证；\n2.负责HiGig2模块的软件开发与维护；\n3.基于Hutuf编写单元测试用例，基于Ruby编写业务测试用例。"
 		}
 	],
 	"workList":[],
 	"aboutme": {
-		"aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "
+		"aboutme_desc":"🌱通信设备商4年，物联网5年。从物理层、链路层到应用层，从寄存器到端云互联。\n自驱力较强，做事认真负责。有良好的编码风格，对新技术充满热情，能快速掌握新业务。有团队精神，乐于分享。"
 	}, 
 	"theme": {
 		"color":"#2f5785",
